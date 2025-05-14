@@ -1,6 +1,6 @@
 # cora-regen
 
-🍃 Sistema de Regeneração — RedM (RSGCore + ox_lib)
+🍃 Poder de Regeneração — RedM (RSGCore + ox_lib)
 
 Este recurso adiciona uma habilidade especial de **regeneração de vida** para jogadores no RedM, utilizando a framework **RSGCore** e a biblioteca **ox_lib**. Ele inclui cooldown, efeitos visuais, áudio de batimentos cardíacos e sincronização da animação para outros jogadores.
 
