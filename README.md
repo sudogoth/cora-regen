@@ -1,12 +1,12 @@
 # cora-regen
 
-🍃 Poder de Regeneração — RedM (RSGCore + ox_lib)
+🍃 **Poder de Regeneração — RedM (RSGCore + ox_lib)**
 
-Este recurso adiciona uma habilidade especial de **regeneração de vida** para jogadores no RedM, utilizando a framework **RSGCore** e a biblioteca **ox_lib**. Ele inclui cooldown, efeitos visuais, áudio de batimentos cardíacos e sincronização da animação para outros jogadores.
+*Este recurso adiciona uma habilidade especial de **regeneração de vida** para jogadores no RedM, utilizando a framework **RSGCore** e a biblioteca **ox_lib**. Ele inclui cooldown, efeitos visuais, áudio de batimentos cardíacos e sincronização da animação para outros jogadores.*
 
 ---
 
-📦 Requisitos
+📦 **Requisitos**
 
 - [rsg-core](https://github.com/rsg-core)
 - [ox_lib](https://overextended.github.io/ox_lib/)
@@ -14,7 +14,7 @@ Este recurso adiciona uma habilidade especial de **regeneração de vida** para 
 
 ---
 
-⚙️ Instalação
+⚙️ **Instalação**
 
 1. Coloque a pasta do recurso dentro de resources do seu RedM.
 2. Adicione a linha abaixo ao seu `server.cfg`:
@@ -28,7 +28,7 @@ Este recurso adiciona uma habilidade especial de **regeneração de vida** para 
 
 ---
 
-🔧 Configurando o Radial Menu
+🔧 **Configurando o Radial Menu**
 
 1️⃣ Abra o arquivo de configuração do menu radial:
 Normalmente é o config.lua dentro do recurso `rsg-radialmenu`.
@@ -52,7 +52,7 @@ Normalmente é o config.lua dentro do recurso `rsg-radialmenu`.
 
 ---
 
-🛠️ Personalização
+🛠️ **Personalização**
 
 Você pode editar o comportamento no *client.lua*:
 ```
@@ -68,7 +68,7 @@ local cooldownTime = 135      -- tempo de espera em segundos
 ```
 ---
 
-📌 Observações
+📌 **Observações**
 
 **Se o jogador morrer durante a regeneração, o efeito é cancelado.**
 
